@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001076045080",
+    "project_id": "proyecto-joven-uwu",
+    "storage_bucket": "proyecto-joven-uwu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001076045080:android:99a41d97f81aa9c1839a6d",
+        "android_client_info": {
+          "package_name": "com.example.tt_habtios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001076045080-5a6lhvgpqmb390tft9f66alpn27fqsil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx_XdkT0Xyys0w8a-QCcQJn9HJFYZKniI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001076045080-5a6lhvgpqmb390tft9f66alpn27fqsil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
